@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  },
+  "name": "myTest",
+  "version": "test",
+  "description": "tet",
+  "main": "index.js",
+  "author": "Mr lei",
+  "license": "MIT",
+  "private": null
+}
